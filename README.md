@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 [image1]: ./readme_file/lane_change.gif "Lane Change"
 [image2]: ./readme_file/following.gif "Following without Collision"
-[image3]: ./readme_file/Goal.jpg "Safe Distance Achieved"
+[image3]: ./readme_file/Goal.gif "Safe Distance Achieved"
 
 
 ### Basic Description
