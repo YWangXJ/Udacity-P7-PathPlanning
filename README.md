@@ -17,7 +17,7 @@ The path points smoothing is achieved by adding evenly 30m-spaced points ahead o
 It is worth mentioning that a coordinates transfromation was conducted for the simplicity of the coding and spline calculation (line 343 transform to car coordinates: 0 degree is the front; line 394 transform it back to the original coordinates system)
 
 ### Lane Changing
-the car is able to change lane safely when there is a slow vehicle in the front. It tends to change back to center line if all surounding lanes are safe.
+the car is able to change lane safely when there is a slow vehicle in the front. It tends to change back to center line if the center lanes are safe.
 ![alt text][image1]
 
 the car is able to follow behind a car.
